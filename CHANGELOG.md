@@ -1,3 +1,7 @@
+# 3.1.3
+## Fixed
+- Added `supportedExtensions` to client
+
 # 3.1.2
 ## Fixed
 - Adding custom headers to requests.
